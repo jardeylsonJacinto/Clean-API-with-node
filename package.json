@@ -1,0 +1,20 @@
+{
+  "name": "14---clean-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jardeylsonJacinto/Clean-API-with-node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jardeylsonJacinto/Clean-API-with-node/issues"
+  },
+  "homepage": "https://github.com/jardeylsonJacinto/Clean-API-with-node#readme"
+}
