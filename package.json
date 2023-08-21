@@ -16,5 +16,12 @@
   "bugs": {
     "url": "https://github.com/jardeylsonJacinto/Clean-API-with-node/issues"
   },
-  "homepage": "https://github.com/jardeylsonJacinto/Clean-API-with-node#readme"
+  "homepage": "https://github.com/jardeylsonJacinto/Clean-API-with-node#readme",
+  "devDependencies": {
+    "git-commit-msg-linter": "^5.0.4"
+  },
+  "dependencies": {
+    "@types/node": "^20.5.1",
+    "typescript": "^5.1.6"
+  }
 }
