@@ -1,5 +1,7 @@
 export class SignUpController {
   handle (hattpRequest: any): any {
-    return {}
+    return {
+      statusCode: 400
+    }
   }
 }
